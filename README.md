@@ -1,4 +1,4 @@
-# RCA_QA-JS
+# RcaQA-JS
 
 ## Step 1) Install Cypress
 
